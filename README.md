@@ -16,23 +16,23 @@ A comprehensive, high-fidelity UI/UX design prototype for a **Smart Parking Syst
 
 The design architecture consists of 5 core interface layouts:
 
-### 1. 🔑 Login Gateway Portal (`Login page.png`)
+### 1. Login Gateway Portal (`Login page.png`)
 - Minimalist center-aligned container framing safe authentication entry pipelines.
 - Implements micro-interaction placeholders for custom asset vector badges, password masks, and inline check-box options.
 
-### 2. 🏠 Interactive Telemetry Dashboard (`Home page.png`)
+### 2. Interactive Telemetry Dashboard (`Home page.png`)
 - Houses a responsive vector hero display layer prompting actionable quick links.
 - Integrates a real-time tracking summary layout displaying system statistics (Total Slots, Booked Slots, Available Allocations) side-by-side with feature showcase grids.
 
-### 3. 🗄️ Multi-Tier Floor Overview Grid (`Parking slots page.png`)
+### 3. Multi-Tier Floor Overview Grid (`Parking slots page.png`)
 - A meticulous layout mapping out programmatically clean matrix coordinates representing levels from Ground Floor (A) up to Third Floor (D).
 - Features dynamic color-coded vector indicators representing live booking states, complete with layout legend cues.
 
-### 4. 📞 Integrated Support Form (`Contact us page.png`)
+### 4. Integrated Support Form (`Contact us page.png`)
 - Balanced split-screen format separating direct inquiry input spaces from static workspace detail layers.
 - Uses vector iconography assets to highlight explicit location badges, operational working hours tables, and external community links.
 
-### 5. 👥 Corporate Vision Workspace (`About us page.png`)
+### 5. Corporate Vision Workspace (`About us page.png`)
 - Implements a dedicated informational board layout mapping out project scope, background goals, and development milestones.
 
 ---
