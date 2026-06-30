@@ -20,11 +20,11 @@ The design architecture consists of 5 core interface layouts:
 - Minimalist center-aligned container framing safe authentication entry pipelines.
 - Implements micro-interaction placeholders for custom asset vector badges, password masks, and inline check-box options.
 
-### 2. 🏠 Interactive Telemetry Dashboard (`Home page.jpg`)
+### 2. 🏠 Interactive Telemetry Dashboard (`Home page.png`)
 - Houses a responsive vector hero display layer prompting actionable quick links.
 - Integrates a real-time tracking summary layout displaying system statistics (Total Slots, Booked Slots, Available Allocations) side-by-side with feature showcase grids.
 
-### 3. 🗄️ Multi-Tier Floor Overview Grid (`Parking slots page.jpg`)
+### 3. 🗄️ Multi-Tier Floor Overview Grid (`Parking slots page.png`)
 - A meticulous layout mapping out programmatically clean matrix coordinates representing levels from Ground Floor (A) up to Third Floor (D).
 - Features dynamic color-coded vector indicators representing live booking states, complete with layout legend cues.
 
